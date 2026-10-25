@@ -31,7 +31,7 @@
   out:fade={{ delay: 1500, duration: 1200 }}
   class="glitched"
   bind:this={glitchedEl}
-/>
+></div>
 
 <style lang="postcss">
   .glitched {
